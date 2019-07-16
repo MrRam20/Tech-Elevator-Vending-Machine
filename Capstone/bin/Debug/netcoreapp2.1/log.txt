@@ -1,0 +1,178 @@
+6/7/2019 8:31:28 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/7/2019 8:31:28 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/7/2019 8:31:47 PM | Added Money | $323.00 |$323.00
+6/7/2019 8:32:00 PM | Purchased Item Potato Crisps  A1  | $323.00 |$319.95
+6/7/2019 8:32:40 PM | Purchased Item Heavy  C4  | $319.95 |$318.45
+6/7/2019 8:33:22 PM | Purchased Item Cola  C1  | $318.45 |$317.20
+6/7/2019 8:34:08 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/7/2019 8:34:08 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/7/2019 8:58:45 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/7/2019 8:58:45 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/7/2019 8:58:56 PM | Added Money | $34.00 |$34.00
+6/7/2019 8:58:59 PM | Purchased Item Potato Crisps  A1  | $34.00 |$30.95
+6/7/2019 8:59:25 PM | Cash Out | $30.95 |$0.00
+6/9/2019 5:46:44 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 5:46:44 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 5:47:08 PM | Added Money | $4002.00 |$4002.00
+6/9/2019 5:47:12 PM | Purchased Item Potato Crisps  A1  | $4002.00 |$3998.95
+6/9/2019 5:47:28 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 5:47:28 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 5:48:12 PM | Added Money | $414.00 |$414.00
+6/9/2019 5:48:19 PM | Purchased Item Potato Crisps  A1  | $414.00 |$410.95
+6/9/2019 6:50:07 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 6:50:07 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 6:50:12 PM | Added Money | $30940.00 |$30940.00
+6/9/2019 6:50:36 PM | Purchased Item Potato Crisps  A1  | $30940.00 |$30936.95
+6/9/2019 6:50:39 PM | Purchased Item Potato Crisps  A1  | $30936.95 |$30933.90
+6/9/2019 6:50:48 PM | Purchased Item Potato Crisps  A1  | $30933.90 |$30930.85
+6/9/2019 6:50:54 PM | Purchased Item Potato Crisps  A1  | $30930.85 |$30927.80
+6/9/2019 6:50:58 PM | Purchased Item Potato Crisps  A1  | $30927.80 |$30924.75
+6/9/2019 9:36:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:36:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:36:54 PM | Added Money | $0.00 |$0.00
+6/9/2019 9:36:58 PM | Cash Out | $0.00 |$0.00
+6/9/2019 9:37:05 PM | Added Money | $0.00 |$0.00
+6/9/2019 9:38:01 PM | Cash Out | $0.00 |$0.00
+6/9/2019 9:40:02 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:40:02 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:41:43 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:41:43 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:43:53 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:43:53 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:44:37 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:44:37 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:45:17 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:45:17 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:46:08 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:46:08 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:46:18 PM | Added Money | $13.00 |$13.00
+6/9/2019 9:47:14 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:47:14 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:49:12 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:49:12 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:49:56 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:49:56 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:50:59 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:50:59 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:51:33 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:51:33 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:54:39 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:54:39 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:55:41 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:55:41 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:56:09 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:56:09 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:57:57 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:57:57 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:58:38 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:58:38 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:58:49 PM | Added Money | $455.00 |$455.00
+6/9/2019 9:58:55 PM | Added Money | $234.00 |$689.00
+6/9/2019 9:59:21 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:59:21 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 9:59:35 PM | Added Money | $342.00 |$342.00
+6/9/2019 9:59:54 PM | Added Money | $0.00 |$342.00
+6/9/2019 10:02:54 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:02:54 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:03:06 PM | Added Money | $0.00 |$0.00
+6/9/2019 10:04:09 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:04:09 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:04:18 PM | Added Money | $0.00 |$0.00
+6/9/2019 10:05:27 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:05:27 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:05:37 PM | Added Money | $0.00 |$0.00
+6/9/2019 10:06:32 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:06:32 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:06:38 PM | Added Money | $0.00 |$0.00
+6/9/2019 10:07:50 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:07:50 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:09:31 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:09:31 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:09:42 PM | Added Money | $34.00 |$34.00
+6/9/2019 10:10:06 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:10:06 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:10:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:10:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:10:54 PM | Added Money | $8394.00 |$8394.00
+6/9/2019 10:19:00 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:19:00 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:19:05 PM | Added Money | $123.00 |$123.00
+6/9/2019 10:19:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:19:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:19:54 PM | Added Money | $123.00 |$123.00
+6/9/2019 10:21:01 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:21:01 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/9/2019 10:21:05 PM | Added Money | $344.00 |$344.00
+6/10/2019 10:05:57 AM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 10:05:57 AM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 10:06:36 AM | Added Money | $43.00 |$43.00
+6/10/2019 10:21:39 AM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 10:21:39 AM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 10:21:55 AM | Added Money | $1212.00 |$1212.00
+6/10/2019 10:21:58 AM | Purchased Item Potato Crisps  A1  | $1212.00 |$1208.95
+6/10/2019 10:22:04 AM | Purchased Item Potato Crisps  A1  | $1208.95 |$1205.90
+6/10/2019 2:07:40 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 2:07:40 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 2:10:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 2:10:49 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 2:11:53 PM | A1: Bad Inventory Input: Price needs to be decimal | $0.00 |$0.00
+6/10/2019 2:11:53 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/10/2019 2:13:05 PM | A1: Bad Inventory Input: Price needs to be decimal | $0.00 |$0.00
+6/10/2019 2:13:05 PM | E1:Bad Inventory Input: No Product of this type exists. | $0.00 |$0.00
+6/10/2019 2:13:05 PM | A1:Bad Inventory Input: No Product of this type exists. | $0.00 |$0.00
+6/10/2019 2:14:06 PM | Added Money | $100.00 |$100.00
+6/10/2019 2:14:22 PM | Purchased Item Stackers  A2  | $100.00 |$98.55
+6/10/2019 2:14:32 PM | Purchased Item Triplemint  D4  | $98.55 |$97.80
+6/10/2019 2:14:38 PM | Purchased Item Triplemint  D4  | $97.80 |$97.05
+6/10/2019 2:14:42 PM | Purchased Item Triplemint  D4  | $97.05 |$96.30
+6/10/2019 2:14:46 PM | Purchased Item Triplemint  D4  | $96.30 |$95.55
+6/10/2019 2:14:54 PM | Purchased Item Triplemint  D4  | $95.55 |$94.80
+6/10/2019 2:16:10 PM | Cash Out | $94.80 |$0.00
+6/11/2019 10:10:25 PM | A1: Bad Inventory Input: Price needs to be decimal | $0.00 |$0.00
+6/11/2019 10:10:25 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/11/2019 10:10:32 PM | A1: Bad Inventory Input: Price needs to be decimal | $0.00 |$0.00
+6/11/2019 10:10:32 PM | A1: Bad Inventory Input: This Slot is already filled with another product! | $0.00 |$0.00
+6/11/2019 10:14:45 PM | Added Money          | $23    | $   23
+6/11/2019 10:14:51 PM | TEST A1              | $23    | $   22
+6/11/2019 10:15:02 PM | TEST A1              | $22    | $   21
+6/11/2019 10:15:06 PM | TEST A1              | $21    | $   20
+6/11/2019 10:15:10 PM | TEST A1              | $20    | $   19
+6/11/2019 10:15:14 PM | TEST A1              | $19    | $   18
+6/11/2019 10:50:12 PM | Added Money          | $324   | $  324
+6/11/2019 10:50:18 PM | Grain Waves A3       | $324   | $321.25
+6/11/2019 10:56:32 PM | Added Money          | $13    | $   13
+6/11/2019 10:56:40 PM | Grain Waves A3       | $13    | $10.25
+6/11/2019 10:58:24 PM | Added Money          | $324   | $  324
+6/11/2019 10:58:28 PM | TEST A1              | $324   | $  323
+6/11/2019 10:59:09 PM | Added Money          | $1     | $    1
+6/11/2019 10:59:14 PM | Added Money          | $12    | $   13
+6/11/2019 10:59:18 PM | TEST A1              | $13    | $   12
+6/11/2019 11:00:09 PM | Added Money          | $4432  | $ 4432
+6/11/2019 11:00:16 PM | Stackers A2          | $4432  | $4430.55
+6/11/2019 11:00:40 PM | Cola C1              | $4430.55 | $4429.3
+6/11/2019 11:08:05 PM | Added Money          | $34    | $   34
+6/11/2019 11:08:10 PM | Cloud Popcorn A4     | $34    | $30.35
+6/11/2019 11:09:27 PM | Added Money          | $4342  | $ 4342
+6/11/2019 11:09:33 PM | Moonpie B1           | $4342  | $4340.2
+6/11/2019 11:11:04 PM | Added Money          | $323   | $  323
+6/11/2019 11:11:07 PM | TEST A1              | $323   | $  322
+6/11/2019 11:12:23 PM | Added Money          | $2343  | $ 2343
+6/11/2019 11:12:29 PM | Heavy C4             | $2343  | $2341.5
+6/11/2019 11:13:53 PM | Added Money          | $1312  | $ 1312
+6/11/2019 11:13:58 PM | Mountain Melter C3   | $1312  | $1310.5
+6/11/2019 11:14:52 PM | Crunchie B4          | $1310.5 | $1308.75
+6/11/2019 11:16:10 PM | Added Money          | $123   | $  123
+6/11/2019 11:16:28 PM | Stackers A2          | $123   | $121.55
+6/11/2019 11:17:25 PM | Added Money          | $4945  | $ 4945
+6/11/2019 11:17:40 PM | Stackers A2          | $4945  | $4943.55
+6/12/2019 6:31:52 PM | Added Money          | $9384  | $ 9384
+6/12/2019 6:32:04 PM | Stackers A2          | $9384  | $9382.55
+6/12/2019 6:32:09 PM | Triplemint D4        | $9382.55 | $9381.8
+6/12/2019 6:32:12 PM | Wonka Bar B3         | $9381.8 | $9380.3
+6/12/2019 6:32:21 PM | Stackers A2          | $9380.3 | $9378.85
+6/12/2019 6:32:23 PM | Stackers A2          | $9378.85 | $9377.4
+6/12/2019 6:32:24 PM | Stackers A2          | $9377.4 | $9375.95
+6/12/2019 6:32:31 PM | Stackers A2          | $9375.95 | $9374.5
+6/12/2019 6:32:45 PM | TEST A1              | $9374.5 | $9373.5
+6/12/2019 6:32:54 PM | Cash Out             | $9373.5 | $    0
+6/12/2019 6:33:01 PM | Added Money          | $1     | $    1
